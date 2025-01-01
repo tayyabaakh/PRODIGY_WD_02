@@ -1,4 +1,6 @@
 # Stopwatch with Advanced Features
+
+
 ## Project Overview: 
 
 A feature-rich Stopwatch using HTML, CSS, and JavaScript. This interactive stopwatch allows users to track time with the following functionalities: Start, Pause, Reset, Restart, Lap, and Reset Laps. It’s designed for both simple and detailed time tracking, perfect for various use cases.
